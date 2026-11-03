@@ -1,1 +1,1 @@
-fecha,tipo,capacidad_vendible,noches_confirmadas,provisionales,escenario,ocupacion,fuente
+fecha_corte,fecha,tipo,reserva,estado_reserva,capacidad_vendible,noches_confirmadas,provisionales,escenario,ocupacion,fuente
